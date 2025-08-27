@@ -4,14 +4,12 @@
       "name": "FastXP",
       "author": "SwiftlyEz",
       "version": "1.0",
-      "week": "193",
-      "compatibility": "all",
+      "compatibility": "w193",
       "description": "Increases the players level to about 5000 and displays it plus gives a small extra XP for chopping trees, not an insane amount.",
-      "imageURL": "",
-      "readmeURL": "https://github.com/SwiftlyEzTTV/Icarus-Mods/blob/main/FastXP.md",
       "files": {
         "exmodz": "https://github.com/SwiftlyEzTTV/Icarus-Mods/blob/main/FastXP.EXMODZ"
-      }
+      },
+      "readmeURL": "https://github.com/SwiftlyEzTTV/Icarus-Mods/blob/main/FastXP.md"
     }
   ]
 }
